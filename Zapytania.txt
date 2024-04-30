@@ -1,0 +1,3 @@
+1.Ogloszenie klasa czy jest to dobrze by było 2 razy DATETIME.
+	1- za poczatek
+	2- za koniec ogloszenia
