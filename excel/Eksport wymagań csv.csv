@@ -1,0 +1,18 @@
+Type;Name;GUID
+Note;Note;{35D9F1F7-BA39-4b3c-9466-65264F4F0653}
+Requirement;Platnosc przy pomocy udzialowca Przelewy24;{99C9E76B-945F-47f7-84CB-4BE2CB5F163F}
+Requirement;Pobranie kaucji przez Przelewy24;{F761BE4B-398A-49df-8B61-38D310AABB6B}
+Requirement;Wynajem garazu przez najemce;{9D134375-9D54-4b85-A0DC-8E803820AD75}
+Requirement;Przyjmowanie platnosci;{205C47A0-DB2F-4021-82B4-FCB8C2F6EC56}
+Requirement;Rezerwacja garazu w systemie;{A69637D8-804D-4f64-B08C-39E2E151FA61}
+Requirement;Prezentacja garazy na mapie;{28D3D3E0-F8F8-4204-B306-C560E9EF4C90}
+Requirement;Wynajem garazu przez wynajmujacego;{7146D377-0A6B-4ed1-8504-6E9D710BA254}
+Requirement;Dodanie grazu do bazy danych;{3DEE196C-174F-441a-992D-BE3CEB7A3D14}
+Requirement;Sprawdzenie wymagan co do garazu;{18CD9EB7-7815-4376-82CB-BCCB24E7FA5C}
+Requirement;Przeslanie zdjec garazu;{90C0A339-7C3E-4b09-9499-D5CCBD3947F7}
+Requirement;Lokalizacja uzytkownika;{FFE42D73-70EA-479d-B927-EDC5F880E6DD}
+Requirement;Wyswietlenie zdjec garazu;{C4D18DEE-F3C8-456c-835D-0B86D0374364}
+Requirement;System powinien wspierac oddanie do wynajmu garazu oraz najem garazu;{B29DB235-CF36-4477-8D9D-2B06DEEFDFD9}
+Requirement;Ustalanie lokalizacji garazu;{6CF9FB6B-AAC1-47d4-BC79-94DA10847746}
+Requirement;Kupno narzedzi;{9FDF84F0-51C7-4e5d-98CE-92D5B0CD8CA2}
+Requirement;Dostep do poradników;{94E7A37D-8158-48b4-94F6-CA09FCFD27D6}
