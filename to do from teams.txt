@@ -1,4 +1,0 @@
-15
-16
-18
-24 oraz export 24 do sql
